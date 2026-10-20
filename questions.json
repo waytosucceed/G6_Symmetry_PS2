@@ -1,0 +1,190 @@
+{
+  "heading": "G6_Rotational Symmetry",
+  "topics": [
+    {
+      "heading": "Rotational Symmetry",
+      "questions": [
+
+  {
+    "questionNo": 1,
+    "question": [
+      "Does the following figure have rotational symmetry?"
+    ],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/31.png"
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "Does the following figure have rotational symmetry?"
+    ],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/32.png"
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "Does the following figure have rotational symmetry?"
+    ],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/33.png"
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "Does the following figure have rotational symmetry?"
+    ],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/34.png"
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "Does the following figure have rotational symmetry?"
+    ],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/35.png"
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "What is the smallest fraction of a full turn through which the cross can be rotated so that it looks exactly the same?<br><img src= './assests/images/question/36.png' width = '30%'  ><br>",
+      { "fraction": { "numerator": "______", "denominator": "______" } }
+    ],
+    "input": ["", ""],
+    "answer": ["1", "4"]
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "What is the smallest fraction of a full turn through which the parallelogram can be rotated so that it looks exactly the same?<br><img src= './assests/images/question/37.png' width = '30%'  ><br>",
+      { "fraction": { "numerator": "______", "denominator": "______" } }
+    ],
+    "input": ["", ""],
+    "answer": ["1", "2"]
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "What is the smallest fraction of a full turn through which the figure can be rotated so that it looks exactly the same?<br><img src= './assests/images/question/38.png' width = '30%'  ><br>",
+      { "fraction": { "numerator": "______", "denominator": "______" } }
+    ],
+    "input": ["", ""],
+    "answer": ["1", "2"]
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "Write all the fractions of a full turn, less than <b>one</b> full turn, through which the letter <b>S</b> can be rotated so that it looks exactly the same.<br><img src= './assests/images/question/39.png' width = '30%'  ><br>",
+      { "fraction": { "numerator": "______", "denominator": "______" } }
+    ],
+    "input": ["", ""],
+    "answer": ["1", "2"]
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "Write all the fractions of a full turn, less than <b>one</b> full turn, through which the cross can be rotated so that it looks exactly the same.<br><img src= './assests/images/question/36.png' width = '30%'  ><br>",
+      { "fraction": { "numerator": "______", "denominator": "______" } },
+      ", ",
+      { "fraction": { "numerator": "______", "denominator": "______" } },
+      ", ",
+      { "fraction": { "numerator": "______", "denominator": "______" } }
+    ],
+    "input": ["", "", "", "", "", ""],
+    "answer": ["1", "4", "1", "2", "3", "4"],
+    "unorderedFractions": true
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "Write all the fractions of a full turn, less than <b>one</b> full turn, through which the figure can be rotated so that it looks exactly the same.<br><img src= './assests/images/question/40.png' width = '30%'  ><br>",
+      { "fraction": { "numerator": "______", "denominator": "______" } }
+    ],
+    "input": ["", ""],
+    "answer": ["1", "2"]
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "Which of the following statements is true about the rotational symmetry of the square?"
+    ],
+    "options": [
+      { "text": "It has rotational symmetry of order 1." },
+      { "text": "It has rotational symmetry of order 2." },
+      { "text": "It has rotational symmetry of order 3." },
+      { "text": "It has rotational symmetry of order 4." }
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/41.png"
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "Choose the correct statement about the rotational symmetry of the rectangle."
+    ],
+    "options": [
+      { "text": "It has rotational symmetry of order 1." },
+      { "text": "It has rotational symmetry of order 2." },
+      { "text": "It has rotational symmetry of order 3." },
+      { "text": "It has rotational symmetry of order 4." }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/42.png"
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "Which of the following statements is true about the rotational symmetry of the scalene triangle?"
+    ],
+    "options": [
+      { "text": "A. &nbsp;&nbsp;&nbsp; It has no rotational symmetry." },
+      { "text": "B. &nbsp;&nbsp;&nbsp;It has rotational symmetry of order 1." },
+      { "text": "C. &nbsp;&nbsp;&nbsp;It has rotational symmetry of order 2." },
+      { "text": "D. &nbsp;&nbsp;&nbsp;Both A and B are correct." }
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/43.png"
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "Which of the following statements is true about the rotational symmetry of the trapezium?"
+    ],
+    "options": [
+      { "text": "A. &nbsp;&nbsp;&nbsp;It has no rotational symmetry." },
+      { "text": "B. &nbsp;&nbsp;&nbsp;It has rotational symmetry of order 1." },
+      { "text": "C. &nbsp;&nbsp;&nbsp;It has rotational symmetry of order 2." },
+      { "text": "D. &nbsp;&nbsp;&nbsp;Both A and B are correct." }
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/44.png"
+  }
+
+
+
+
+      ]
+    }
+  ]
+}
